@@ -9,7 +9,7 @@
   I'm a cybersecurity researcher and exploit developer with a passion for creating and improving security tools and scripts. My goal is to advance knowledge and understanding of cybersecurity and hacking.
 </p>
 
-## Favorites ⭐
+## Favorites 𖤐
 
 <p align="center">
 
@@ -18,7 +18,7 @@
 
 </p>
 
-## Skills & Technologies 💻
+## Skills & Technologies 𖤐
 
 <p align="center">
 
@@ -28,7 +28,7 @@
 
 </p>
 
-## Connect with Me 🌐
+## Connect with Me 𖤐
 
 <p align="center">
 
@@ -38,7 +38,7 @@
 
 </p>
 
-## License & Contributions 📜
+## License & Contributions 𖤐
 
 <p align="center">
   Most of my projects are open source and licensed under the GNU License. Contributions, issues, and feature requests are welcome!
