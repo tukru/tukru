@@ -32,10 +32,10 @@
 
 <p align="center">
 
-- **Codepen:** https://codepen.io/tukru-the-scripter 
 - **Instagram:** https://Instagram.com/tycru
 - **FceBook:** https://www.facebook.com/tyler.crum.96
-
+- **Codepen:** https://codepen.io/tukru-the-scripter
+- 
 </p>
 
 ## License & Contributions 𖤐
