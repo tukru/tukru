@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tukru/tukru/blob/main/washington.jpg?raw=true" alt="Banner">
+  <img src="https://github.com/tukru/nohing/blob/main/17105451.jpeg?raw=true" alt="Banner">
 </p>
 
 
