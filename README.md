@@ -23,7 +23,7 @@
 
 <p align="center">
 
-- **Languages:** JavaScript, Perl, Python
+- **Languages:** JavaScript, Perl, Python and Bash
 - **Interests:** Cybersecurity, Exploit Development, Ethical Hacking, & Your sister.
 
 </p>
