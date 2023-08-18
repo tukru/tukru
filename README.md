@@ -24,8 +24,7 @@
 <p align="center">
 
 - **Languages:** JavaScript, Perl, Python
-- **Tools:** Node.js, ar-drone, aircrack-ng
-- **Interests:** Cybersecurity, Exploit Development, Ethical Hacking
+- **Interests:** Cybersecurity, Exploit Development, Ethical Hacking, & Your sister.
 
 </p>
 
