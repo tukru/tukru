@@ -7,7 +7,7 @@
   Welcome to Hell 𖤐𖤐𖤐𖤐𖤐𖤐𖤐𖤐𖤐𖤐</h1>
 
 <p align="center">
-  I'm a wanna be cybersecurity researcher and exploit developer with a passion for creating and improving security tools and scripts. My goal is to get laid and advance my knowledge and understanding of cybersecurity and hacking mafucka.
+  I'm a Bartender at night and a maniac creating tools and scripts by night too. i know that doesnt make sense. My goal is to get laid and advance my knowledge and understanding of cybersecurity and hacking mafucka.
 </p>
 
 ## Favorites 𖤐
