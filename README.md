@@ -15,7 +15,7 @@
 <p align="center">
 
 - **[DroneCharmer2](https://github.com/tukru/DroneCharmer2):** A powerful tool designed to detect and take control of drones.
-- **[macOS Loginscreen Bypass](https://github.com/tukru/BarBeat):** A tool to analyze local bar industry.
+- **[PartyPulse](https://github.com/tukru/BarBeat):** A tool to analyze local bar industry.
 
 </p>
 
