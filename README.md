@@ -7,7 +7,7 @@
 
 <p align="center">
   I'm a Bartender/maniac creating tools and scripts that noone should use unless they got that dsl.. My goal is to get laid
-  and advance my knowledge and understanding of cybersecurity and hacking mafucka.
+  and advance my knowledge and understanding of cybersecurity and exploit techniques mafuckas.
 </p>
 
 ## Favorites 𖤐
