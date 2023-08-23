@@ -6,7 +6,8 @@
 <h1 align="center">𖤐𖤐𖤐 Welcome to Hell 𖤐𖤐𖤐</h1>
 
 <p align="center">
-  I'm a Bartender at night and a maniac creating tools and scripts by night too. i know that doesnt make sense. My goal is to get laid and advance my knowledge and understanding of cybersecurity and hacking mafucka.
+  I'm a Bartender/maniac creating tools and scripts that noone should use unless they got that dsl.. My goal is to get laid
+  and advance my knowledge and understanding of cybersecurity and hacking mafucka.
 </p>
 
 ## Favorites 𖤐
