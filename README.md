@@ -23,9 +23,9 @@
 
 <p align="center">
 
-- **Languages:** JavaScript, Perl, Python and Bash
-- **Interests:** Cybersecurity, Exploit Development, Ethical Hacking, & Your sister.
-
+- **Languages:** Python and Bash mostly but a little of everything
+- **Interests:** Cybersecurity, Exploit Development, Hacking, Social-Ineractions in mass, magnets, drugs & Your sister.
+- **Plans:** I dont plan, i use charm and good luck for most things.
 </p>
 
 ## Connect with Me 𖤐
