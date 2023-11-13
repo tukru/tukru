@@ -24,8 +24,8 @@
 <p align="center">
 
 - **Languages:** Python and Bash mostly but a little of everything
-- **Interests:** Cybersecurity, Exploit Development, Hacking, Social-Ineractions in mass, magnets, drugs & Your sister.
-- **Plans:** I dont plan, i use charm and good luck for most things.
+- **Interests:** Cybersecurity, Exploit Development, Hacking, Social-Inetractions in mass, magnets, drugs & Your sister.
+- **Plans:** I dont plan, i prefer to be lucky.
 </p>
 
 ## Connect with Me 𖤐
