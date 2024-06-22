@@ -5,6 +5,9 @@
 
 <h1 align="center">𖤐𖤐𖤐 Welcome to Hell 𖤐𖤐𖤐</h1>
 
+<p align="center" style="font-size: larger;">
+  <strong>Spreading chaos and destruction ❤️  <a href="https://github.com/tukru">tukru</a></strong>
+</p>
 <p align="center">
   I'm a Bartender with manic dreams creating tools that noone should use unless they got that autism.. My goal is to get laid
   and advance cybersecurity and exploit techniques mafuckas.
@@ -44,6 +47,4 @@
   Most of my projects are open source and licensed under the GNU License. Contributions, issues, and feature requests are welcome!
 </p>
 
-<p align="center" style="font-size: larger;">
-  <strong>Spreading chaos and destruction ❤️  <a href="https://github.com/tukru">tukru</a></strong>
-</p>
+
