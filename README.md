@@ -9,8 +9,7 @@
   <strong>Spreading chaos and destruction ❤️  <a href="https://github.com/tukru">tukru</a></strong>
 </p>
 <p align="center">
-  I'm a Bartender with manic dreams creating tools that noone should use unless they got that autism.. My goal is to get laid
-  and advance cybersecurity and exploit techniques mafuckas.
+  I'm a regular manic creating tools that noone should use ma'fuckas.
 </p>
 
 ## Favorites 𖤐
@@ -28,7 +27,7 @@
 
 - **Languages:** Python and Bash mostly but a little of everything
 - **Interests:** Cybersecurity, Exploit Development, Hacking, Social-Inetractions in mass, magnets, drugs & Your sister.
-- **Plans:** I dont plan, i prefer to be lucky.
+- **Plans:** I prefer to be lucky.
 </p>
 
 ## Connect with Me 𖤐
